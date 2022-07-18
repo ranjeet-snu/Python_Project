@@ -1,0 +1,14 @@
+Working with List
+=============================
+List is mutable data types and can store any type of value
+=============================================
+
+* To create list
+>> li=[]   or li=list()    -- it will create an empty list / Empty list has truth value 0
+or
+>>li=[ val1, val2 ,val 3.....]
+
+* Nested List
+
+
+
