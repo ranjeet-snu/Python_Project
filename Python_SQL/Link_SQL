@@ -1,0 +1,4 @@
+>> GO to Scripts and open in cmd mode
+
+>> type
+     >>> pip install mysql-connector-python
